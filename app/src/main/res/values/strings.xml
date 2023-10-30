@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideogameSpace</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="doomEternal">Doom Eternal</string>
+    <string name="titanFall2">TitanFall2</string>
+    <string name="vampireSurvivors">Vampire Survivors</string>
+    <string name="LOL">League of legends</string>
+    <string name="baldursGate3">Baldur\'s Gate 3</string>
+    <string name="backpackHero">Backpack Hero</string>
+</resources>
